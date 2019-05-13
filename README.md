@@ -1,4 +1,4 @@
-#UC_SantaCruz_AEF
+UC Santa Cruz AEF
 
 This repository contains some of the coursework completed in the UCSC Applied Economics & Finance MSc.
 
