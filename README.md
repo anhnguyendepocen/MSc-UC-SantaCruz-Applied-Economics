@@ -32,8 +32,3 @@ Probably some calculus, linear algebra, probability theory, and basic computatio
 ### All you need to Get up to Speed with Programming (IMO)
 - **Computational Thinking:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
 - **Design of Algorithms:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/
-
-### Potential Applications of Underlying Concepts
-- **Data Mining:** http://www.stat.cmu.edu/~cshalizi/350/
-- **AI:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
-- **Cognitive Science:** https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-66j-computational-cognitive-science-fall-2004/lecture-notes/
