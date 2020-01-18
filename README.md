@@ -18,6 +18,16 @@ Probably some calculus, linear algebra, probability theory, and basic computatio
 - *	Statistical Comp: http://www.stat.cmu.edu/~cshalizi/statcomp/
 - *	Regression: 	  http://www.stat.cmu.edu/~cshalizi/mreg/15/
 
+- **Non-Parametrics:** 
+- * http://www.the-smooth-operators.com/
+- * https://christofseiler.github.io/stats205/
+- * https://beta.rstudioconnect.com/content/1550/
+
+### All you need to Get up to Speed with Programming (IMO)
+- **Computational Thinking:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
+- **Design of Algorithms:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/
+
+
 ## More but not Necessary
 
 ### Mathematical Background
@@ -28,7 +38,3 @@ Probably some calculus, linear algebra, probability theory, and basic computatio
 - **Soft Intro to Probability:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/
 - **Numerical Analysis:** https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/
 - **Computational Science:** https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/
-
-### All you need to Get up to Speed with Programming (IMO)
-- **Computational Thinking:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
-- **Design of Algorithms:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/
