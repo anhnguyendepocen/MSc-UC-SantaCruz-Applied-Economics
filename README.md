@@ -5,6 +5,7 @@ Statistical coursework in the masters program
 ### Prerequisites
 
 Probably some calculus, linear algebra, probability theory, and basic computational reasoning skills.
+- https://www.econometrics-with-r.org/
 
 # Resources
 
