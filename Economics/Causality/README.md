@@ -1,27 +1,27 @@
-##MODULE 1
+## MODULE 1
 
 - Holland, P. (1986), “Statistics and Causal Inference,” (with discussion), Journal of the American Statistical Association, 81, 945-970.
 - Sheehan, R. G., and Grieves, R. (1982), “Sunspots and Cycles: A Test of Causation,” Southern Economic Journal, 48, 775-777.
 - Sobel, M. E. (1995), Causal Inference in the Social and Behavioral Sciences. Pp. 1-38 in G. Arminger, C. C. Clogg and M. E. Sobel (Eds.), Handbook of Statistical Modeling for the Social and Behavioral Sciences. New York: Plenum Press.
 
-##MODULE 2
+## MODULE 2
 
 - Imbens, G. W., and Rubin, D. B. (2015), Causal Inference for Statistics, Social and Biomedical Sciences: An Introduction, New York: Cambridge University Press.
 - Rosenbaum, P. R. (2002), Observational Studies, New York: Springer-Verlag.
 - Rosenbaum, P. R. (2010), Design of Observational Studies, New York: Springer-Verlag.
 - Rosenbaum, P. R. (2017), Observation and Experiment, Cambridge, MA: Harvard University Press.
 
-##MODULE 3
+## MODULE 3
 
 - Imbens, G. W., and Rubin, D. B. (2015), Causal Inference for Statistics, Social and Biomedical Sciences: An Introduction, New York: Cambridge University Press.
 
-##MODULE 4
+## MODULE 4
 
 - Imbens, G. W. (2004), “Nonparametric Estimation of Average Treatment Effects Under Exogeneity: A Review,” Review of Economics and Statistics, 86, 1-29.
 - McCaffrey, D.F., Ridgeway, G., and Moral, A.R. (2004), “Propensity Score Estimation with Boosted Regression for Evaluating Causal Effects in Observational Studies,” Psychological Methods 9, 403-425.
 - Rosenbaum, P.R., and Rubin, D.B. (1983), “The Central Role of the Propensity Score in Observational - Studies for Causal Effects,” Biometrika 70, 41-55.
 
-##MODULE 5
+## MODULE 5
 
 - Cochran, W.G., and Rubin, D. (1973), “Controlling Bias in Observational Studies: A Review”, Sankhya, 35, 417-446.
 - Imbens G, Abadie A, Drukker D, and Herr J. (2004), Implementing Matching Estimators for Average Treatment Effects in Stata,” The STATA Journal, 4, :290-311.
@@ -31,7 +31,7 @@
 - Stuart, E. A. (2010), “ Matching Methods for Causal Inference: A Review and a Look Forward,” Statistical Science, 25, 1-21.
 - Zubizarreta, J.R., Paredes, R.D., and Rosenbaum, P.R. (2014), “Matching for Balance, Pairing for Heterogeneity in an Observational Study of the Effectiveness of For-Profit and Not-For-Profit High Schools in Chile,” The Annals of Applied Statistics, 8, 204-231.
 
-##MODULE 6
+## MODULE 6
 
 - Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., and Robins, J. (2018), “Double/Debiased Machine Learning for Treatment and Structural Parameters,” Econometrics Journal, 21, C1-C68.
 - Chipman, H. A, George, E. I., and McCulloch, R, E., (2010), “BART: Bayesian additive regression trees,” The Annals of Applied Statistics, 4, 266-298.
