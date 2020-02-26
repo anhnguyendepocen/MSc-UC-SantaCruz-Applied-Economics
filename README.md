@@ -19,10 +19,7 @@ Probably some calculus, linear algebra, probability theory, and basic computatio
 - *	Statistical Comp: http://www.stat.cmu.edu/~cshalizi/statcomp/
 - *	Regression: 	  http://www.stat.cmu.edu/~cshalizi/mreg/15/
 
-- **Non-Parametrics:** 
-- * http://www.the-smooth-operators.com/
 - * https://christofseiler.github.io/stats205/
-- * https://beta.rstudioconnect.com/content/1550/
 
 ### All you need to Get up to Speed with Programming (IMO)
 - **Computational Thinking:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
