@@ -49,3 +49,33 @@ Lopez, M.J., and Gutman, R,. (2017), “Estimation of Causal Effects with Multip
 - Rosenbaum, P. R. (2017), Observation and Experiment, Cambridge, MA: Harvard University Press.
 - Scharfstein, D.O., Rotnitzky, A,., and Robins, J.M. (1999), “Adjusting for Non-ignorable Drop-Out Using Semiparametric Non-Response Models,” (with discussion), Journal of the American Statistical Association, 94, 1096-1146.
 - van der Laan, M.J., and Rose, S. (2011), Targeted Learning: Causal Inference for Observational and Experimental Data, New York: Springer.
+
+## Module 7: Introduction to Mediation
+
+- Mediation and Conditioning on Intermediate Outcomes
+- Reframing the Problem of Mediation
+- Identification of Controlled, Average Direct and Indirect Effects
+
+## Module 8: More on Mediation
+
+- Estimation of Mediated Effects
+- Sensitivity Analyses for Mediation
+- Instrumental Variables with a Continuous Treatment
+
+## Module 9: Instrumental Variables, Principal Stratification, and Regression Discontinuity
+
+- Instrumental Variables and the Complier Average Causal Effect
+- Principal Stratification
+- Regression Discontinuity
+
+## Module 10: Longitudinal Causal Inference
+
+- The g-formula
+- Marginal Structural Models
+- Structural Nested Mean Models and g-estimation
+
+## Module 11: Interference and Fixed Effects
+
+- Introduction to Interference
+- Interference Continued
+- Fixed Effects Regressions in Econometrics
